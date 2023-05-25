@@ -15,7 +15,7 @@ const { nativeImage, Notification } = electron
  * @constant
  */
 const _ = require('lodash')
-const logger = require('@sidneys/logger')({ write: true })
+const logger = require('@bengennaria/logger')({ write: true })
 
 
 /**

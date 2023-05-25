@@ -1,20 +1,20 @@
 {
-  "name": "@sidneys/electron-notification-provider",
+  "name": "@bengennaria/electron-notification-provider",
   "version": "0.136.0",
   "description": "Simplified interface for Notifications",
   "license": "MIT",
-  "homepage": "https://bitbucket.org/sidneys/electron-notification-provider",
+  "homepage": "https://github.com/bengennaria/electron-notification-provider",
   "author": {
-    "name": "sidneys",
-    "email": "sidneys.github.io@outlook.com",
-    "url": "https://bitbucket.org/sidneys"
+    "name": "bengennaria",
+    "email": "ben.gennaria@gmail.com",
+    "url": "https://github.com/bengennaria"
   },
   "repository": {
     "type": "git",
-    "url": "https://bitbucket.org/sidneys/electron-notification-provider.git"
+    "url": "https://github.com/bengennaria/electron-notification-provider.git"
   },
   "bugs": {
-    "url": "https://bitbucket.org/sidneys/electron-notification-provider/issues"
+    "url": "https://github.com/bengennaria/electron-notification-provider/issues"
   },
   "deprecated": false,
   "engines": {
@@ -31,7 +31,7 @@
     "tools"
   ],
   "dependencies": {
-    "@sidneys/logger": "^1.151.0",
+    "@bengennaria/logger": "git+https://bengennaria@github.com/bengennaria/logger.git",
     "lodash": "^4.17.20"
   },
   "devDependencies": {
