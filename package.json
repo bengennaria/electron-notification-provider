@@ -31,7 +31,7 @@
     "tools"
   ],
   "dependencies": {
-    "@bengennaria/logger": "git+https://bengennaria@github.com/bengennaria/logger.git",
+    "@bengennaria/logger": "github:bengennaria/logger",
     "lodash": "^4.17.20"
   },
   "devDependencies": {
